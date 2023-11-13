@@ -1,0 +1,2 @@
+# Run in root
+0 * * * * /home/thien/.venv/bin/python3.10 /home/thien/stock-prediction/driver.py
